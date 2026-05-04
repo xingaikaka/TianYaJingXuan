@@ -63,7 +63,7 @@
 |  ✈️  | **Telegram** | [加入频道 →](https://testflight.apple.com/join/AeFWcpsT) |
 |  📘  | **Facebook** | [点击加入 →](https://www.facebook.com/share/p/1CmgZQq6r2/?mibextid=wwXIfr)|
 |  📸  | **Instagram** | [点击加入 →](https://www.instagram.com/p/DX3yNwMEg4-/?igsh=c2Ewcm8zcjl6bXRj)|
-|  🐦  | **Twitter / X** ｜ [点击加入→](https://x.com/tyjxapp?s=11)|
+|  🐦  | **Twitter/X** | [点击加入→](https://x.com/tyjxapp?s=11)|
 
 <br/>
 
