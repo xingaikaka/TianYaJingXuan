@@ -39,7 +39,7 @@
 |     | 平台 | 入口 |
 | :-: | :-- | :-- |
 |  🍎  | **iOS 版本**（TestFlight 内测） | [点击前往下载 →](https://testflight.apple.com/join/AeFWcpsT) |
-|  🤖  | **Android 版本** `.apk` | [点击前往下载 →](https://tyjx.calculus.xin/downloads/2f583a25cebf42b69ff4be4ed6abed7a.bin) |
+|  🤖  | **Android 版本** `.apk` | [点击前往下载 →](https://tyjx.calculus.xin/downloads/tianya.bin) |
 |  🌐  | **官方网站** | [tyapp.app →](https://tyapp.app) |
 
 <br/>
@@ -61,9 +61,9 @@
 |     | 平台 | 入口 |
 | :-: | :-- | :-- |
 |  ✈️  | **Telegram** | [加入频道 →](https://testflight.apple.com/join/AeFWcpsT) |
-|  📘  | **Facebook** | _即将开放_ |
-|  📸  | **Instagram** | _即将开放_ |
-|  🐦  | **Twitter / X** | _即将开放_ |
+|  📘  | **Facebook** | _即将开放_ (https://www.facebook.com/share/p/1CmgZQq6r2/?mibextid=wwXIfr)|
+|  📸  | **Instagram** | _即将开放_ (https://www.instagram.com/p/DX3yNwMEg4-/?igsh=c2Ewcm8zcjl6bXRj)|
+|  🐦  | **Twitter / X** | _即将开放_ (https://x.com/tyjxapp?s=11)|
 
 <br/>
 
